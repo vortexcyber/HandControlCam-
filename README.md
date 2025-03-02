@@ -1,2 +1,2 @@
-REQUIREMENTS
-pip install opencv-python mediapipe numpy
+## REQUIREMENTS
+# pip install opencv-python mediapipe numpy
